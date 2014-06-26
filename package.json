@@ -1,0 +1,26 @@
+{
+  "name": "nodecmd",
+  "version": "1.0.0",
+  "description": "Accept input, then print the output through a given JS function.",
+  "bin": "./bin/nodecmd.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kirbysayshi/nodecmd.git"
+  },
+  "keywords": [
+    "cli",
+    "utility",
+    "command",
+    "print"
+  ],
+  "author": "Drew Petersen <kirbysayshi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirbysayshi/nodecmd/issues"
+  },
+  "homepage": "https://github.com/kirbysayshi/nodecmd"
+}
