@@ -1,6 +1,6 @@
 {
   "name": "nodecmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Accept input, then print the output through a given JS function.",
   "bin": "./bin/nodecmd.js",
   "preferGlobal": true,
